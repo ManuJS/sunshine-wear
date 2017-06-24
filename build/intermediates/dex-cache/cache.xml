@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\emanu\Desktop\sunshine-wear\wear\build\intermediates\exploded-aar\com.google.android.support\wearable\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="58b928ccbaf9090c632f278d6bd31e1ae42f2457">
+        <dex dex="C:\Users\emanu\Desktop\sunshine-wear\wear\build\intermediates\pre-dexed\debug\com.google.android.support-wearable-1.3.0_e343d941b7d1e060dbe6018e988112823e0eb98a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\emanu\Desktop\sunshine-wear\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Users\emanu\Desktop\sunshine-wear\wear\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-8.4.0_53e4e725dc06b4cb05311395c9f1bea8c0417a51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_01b01d8320ab127ed1169c656fcc795d365707fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_8df42f539aefc13486dd1976091270b6e8ad57cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\exploded-aar\com.android.support\preference-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="378c0fefdd7adedd0ea74d7607b3d4a251b29d78">
+        <dex dex="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\pre-dexed\debug\com.android.support-preference-v7-25.1.0_ba5516253194a471845c64823c61ee1ec50efb05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_94c6d18821681ddfc7f4a18377b549298d53bf98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\emanu\Desktop\sunshine-wear\wear\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="C:\Users\emanu\Desktop\sunshine-wear\wear\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-22.0.0_9e8df3daa80fb52b0d1826a2fabda816a2c20129.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_a6c33ebeffee9497e4297b071179256009f2f81e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\emanu\Desktop\sunshine-wear\wear\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\emanu\Desktop\sunshine-wear\wear\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_2f8f8c290cd355f3ea93dcf33d226c0ba67a995e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\exploded-aar\com.android.databinding\adapters\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\pre-dexed\debug\com.android.databinding-adapters-1.2.1_70e9ca371096b641e1e60b332213c14a215554a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-8.4.0_8985d12083a97e81957a69bf9bcc9eac9d048abf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_e38ffa5560f460bee45c6b09f6799260c77a1ade.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_638a610751a86559e53e23081a2cbe77e078f164.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\emanu\Desktop\sunshine-wear\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\emanu\Desktop\sunshine-wear\wear\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_1b148c3d927c05744589e1f2a53ffd93ebfa4a36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk-android\sdk-total\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta3\constraint-layout-solver-1.0.0-beta3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="22c1e9d26251df254de7cc9dee01f5f134b10eba">
+        <dex dex="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-beta3_97492e454001301d5af9e44bfedb6c59f3324366.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk-android\sdk-total\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\emanu\Desktop\sunshine-wear\wear\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_9b2cf7129c7ed1896cdcd4fecd15304e09cc5787.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_5e9b6f8214ee748abdacaab4746a28978e3b8be0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_967daf4b4205b47cda9af39a14c4e3ed32092fca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_e4728f52bb217cd194a01add419e52efa53ab7c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\exploded-aar\com.firebase\firebase-jobdispatcher\0.5.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a7d1d5f89815c94a839ffd4de5f083f5e166d9a5">
+        <dex dex="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\pre-dexed\debug\com.firebase-firebase-jobdispatcher-0.5.0_740565f8f2d55156eb7658fa020af86bc04cdcce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_f8ccf1bbac731d0df22f3e52ad0388ce2afc78ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\emanu\.gradle\caches\modules-2\files-2.1\com.android.databinding\baseLibrary\2.2.3\b4b51d1925cdfda98fd861230c1ecb5855500129\baseLibrary-2.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b4b51d1925cdfda98fd861230c1ecb5855500129">
+        <dex dex="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\pre-dexed\debug\baseLibrary-2.2.3_075341dcac8989cc7425765f178664cc7be497f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\emanu\Desktop\sunshine-wear\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\emanu\Desktop\sunshine-wear\wear\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_e6972fa7961f48442dae9dcb904cbc1dbeca6bda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-beta3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b81d40d208a3308c8e81b2cccd3054238a13d140">
+        <dex dex="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.0-beta3_fd41aaf664d9001696d148f91df8c0f9dbd40493.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_409111e4ae219fe1a0675b742bb79b4472680e30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\emanu\Desktop\sunshine-wear\wear\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\emanu\Desktop\sunshine-wear\wear\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_b00cb05bbaf5e792e6b09fc68b1b7064ddef9ddc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\exploded-aar\com.android.databinding\library\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\pre-dexed\debug\com.android.databinding-library-1.2.1_5e1a1deb89d5051fcf8510c867e93348b21c9c9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk-android\sdk-total\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_7b37a7d5fdb6a6b14e5b14b4c91ac6552cfed45e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\emanu\Desktop\sunshine-wear\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_417af5f359e9e448e84ba7906adbddbd02d47366.jar" />
+    </item>
+
+</items>
